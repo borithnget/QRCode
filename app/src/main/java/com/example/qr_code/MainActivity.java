@@ -16,7 +16,6 @@ import com.google.zxing.WriterException;
 import com.google.zxing.common.BitMatrix;
 
 public class MainActivity extends AppCompatActivity {
-
     Button btndelay,btnNo_delay;
     ImageView imageView;
     EditText edituser,editpass,editdelay;
